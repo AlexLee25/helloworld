@@ -6,4 +6,4 @@ GitHub is available.
 Creating a new branch is quick AND simple.
 add merge.
 I am doing something.
-an old developer.
+two developers.
